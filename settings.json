@@ -8,7 +8,7 @@
   "server": {
     "ip": "TheKingSmpMc.aternos.me",
     "port": 45575,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "No Cursing",
+        "Join Discord:https://discord.gg/ztTyqrPvN",
+        "TheKingSmp Miniblox"
       ]
     },
     "chat-log": true,
